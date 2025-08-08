@@ -1,0 +1,10 @@
+img {
+    width: 600px;
+    height: 400px;
+}
+body {
+    text-align: center;
+    font-family: Courier;
+    background: AntiqueWhite;
+    color: DarkCyan;
+}
