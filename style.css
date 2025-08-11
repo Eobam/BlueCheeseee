@@ -10,6 +10,7 @@ body {
 .hover {
     padding: 40px 10px;
     border: none;
+    
 }
 
 .hover:hover img {
