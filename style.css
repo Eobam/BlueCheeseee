@@ -7,3 +7,12 @@ body {
     background: AntiqueWhite;
     color: DarkCyan;
 }
+.hover {
+    padding: 40px 10px;
+    border: none;
+}
+
+.hover:hover img {
+    transform: scale(1.1);
+    filter: brightness(1.2);
+}
